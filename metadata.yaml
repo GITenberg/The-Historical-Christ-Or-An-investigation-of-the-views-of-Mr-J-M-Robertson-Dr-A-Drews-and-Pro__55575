@@ -1,11 +1,16 @@
 _repo: The-Historical-Christ-Or-An-investigation-of-the-views-of-Mr-J-M-Robertson-Dr-A-Drews-and-Pro__55575
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55575-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Conybeare, Fred. C.
     gutenberg_agent_id: '48401'
     url: http://www.gutenberg.org/2009/agents/48401
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55575#The-Historical-Christ-Or-An-investigation-of-the-views-of-Mr-J-M-Robertson-Dr-A-Drews-and-Pro_
 gutenberg_issued: '2017-09-18'
 gutenberg_type: Text
 identifiers:
